@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @adedwi1808, I'am a 6 semester informatics student at Universitas Teknologi Yogyakarta. I have an interest in starting my career as an iOS developer which develops applications to solve existing problems.
-- 🌱 I’m currently learning Software Engineer (iOS Engineering)
+### 👋 Hi, i'm Ade Dwi Prayitno
 
-- 📫 How to reach me :
-- adedwip1808@gmail.com
-- https://www.linkedin.com/in/adedwiprayitno/
+🖥️ i've been coding as iOS Developer Primarily for 2 Years
+💁🏼‍♂️ You Can Find Me On linkedin.com/in/adedwiprayitno/
+👀 Sometimes i'm working on Kotlin Also

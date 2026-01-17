@@ -1,7 +1,7 @@
-<h2 align="center">Hi 👋 I'm Ade Dwi Prayitno</h2>
+<h2 align="center">👋 Hi, I'm Ade Dwi Prayitno</h2>
 
 <p align="center">
-  iOS Developer • Swift • SwiftUI
+  iOS Developer • Swift • SwiftUI • UIKit
 </p>
 
 <p align="center">
@@ -12,6 +12,16 @@
     <img src="https://img.shields.io/badge/Portfolio-codewithrocket.vercel.app-black?style=flat&logo=vercel" />
   </a>
 </p>
+
+---
+
+### 🧠 About Me
+
+- 📱 iOS Developer with **2+ years** experience
+- 🚀 Shipped production apps to the **App Store**
+- ⚙️ Focused on **Clean Architecture & CI/CD**
+- 🤝 Cross-team collaboration (Design & Backend)
+- 🤏 Occasionally working with **Kotlin**
 
 ---
 
@@ -29,20 +39,20 @@
   <img src="https://img.shields.io/badge/MVVM-000000?style=flat"/>
   <img src="https://img.shields.io/badge/Fastlane-00F200?style=flat&logo=fastlane&logoColor=white"/>
   <img src="https://img.shields.io/badge/Xcode_Cloud-147EFB?style=flat&logo=apple&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white"/>
 </p>
 
 ---
 
-### 👨‍💻 About
+### 📊 GitHub Activity
 
-- 📱 iOS Developer (2+ years)
-- 🚀 Production apps, App Store ready
-- 🧩 Clean Architecture & CI/CD minded
-- 🤏 Sometimes Kotlin
+<p align="center">
+  <img
+    src="https://stats-github.vercel.app/api?username=adedwiprayitno&show_icons=true&theme=transparent&hide_border=true"
+  />
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adedwiprayitno&show_icons=true&hide_title=true&hide_border=true" />
+  <i>Building clean, scalable, and delightful iOS apps.</i>
 </p>
